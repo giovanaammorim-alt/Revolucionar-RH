@@ -17,8 +17,8 @@ O Revolucionar RH é composto por duas frentes principais:
 - **Site:** conecta profissionais a oportunidades por meio de um Banco de Talentos e apresenta soluções para empresas, como recrutamento inclusivo, consultoria em DE&I e ações de educação e desenvolvimento.
 
 - **Aplicativo:** pensado para colaboradores das organizações atendidas, reunindo recursos de aprendizagem, eventos, comunidade, diagnóstico de DE&I, indicadores, Comitê de DE&I e um espaço confidencial de escuta chamado **Você Anônimo**.
-- 
-- ## 💻 Site Revolucionar RH
+  
+  ## 💻 Site Revolucionar RH
 
 O site representa a frente externa do projeto, conectando profissionais a oportunidades e apresentando às organizações as soluções oferecidas pelo Revolucionar RH.
 
