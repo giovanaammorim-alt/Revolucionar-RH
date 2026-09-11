@@ -47,7 +47,7 @@ Entre as funcionalidades propostas estão:
 - Agenda & Eventos
 - Comunidade
 - Você Anônimo
-- Comitê de DE&I
+- Comite de DE&I
 - Diagnóstico e Indicadores de DE&I
 
 ### Protótipo
